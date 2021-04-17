@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yossi509311/typescrpit-for-javascrpit-developers/issues"
   },
-  "homepage": "https://github.com/yossi509311/typescrpit-for-javascrpit-developers#readme"
+  "homepage": "https://github.com/yossi509311/typescrpit-for-javascrpit-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
