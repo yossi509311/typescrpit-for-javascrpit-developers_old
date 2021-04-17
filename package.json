@@ -19,10 +19,8 @@
   },
   "homepage": "https://github.com/yossi509311/typescrpit-for-javascrpit-developers#readme",
   "devDependencies": {
-    "install": "^0.13.0",
     "ts-node": "^8.6.2",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.7.5",
-    "uninstall": "*"
+    "typescript": "^3.7.5"
   }
 }
