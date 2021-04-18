@@ -9,7 +9,7 @@ let age: number = 0x2b;
 
 console.log(age);
 
-let name: string = 'Ham10';
+let name: string = 'Ham11';
 //name = 1;
 console.log(name);
 
